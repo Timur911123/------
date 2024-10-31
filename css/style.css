@@ -1,0 +1,58 @@
+.headr {
+    height: 900px;
+    background-image: url("../img/karkas.svg");
+}
+
+.headr-menu {
+    display: flex;
+    align-items:center;
+    justify-content:space-evenly;
+
+}
+
+
+.logo1 {
+    margin-top: 105px;
+}
+
+.odp {
+    margin-top: 80px;
+}
+
+
+.odp li {
+    display: inline;
+    padding-left: 106.5px;
+
+
+}
+
+.glav {
+    font-family: Montserrat;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 30.48px;
+
+}
+
+.akchii {
+    font-family: Montserrat;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 30.48px;
+
+}
+
+.ohac {
+    font-family: Montserrat;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 30.48px;
+
+}
+
+
+.buy1 {
+    margin-top: 76.5px;
+
+}
