@@ -1,58 +1,171 @@
 .headr {
     height: 900px;
-    background-image: url("../img/karkas.svg");
+    background-image: url("../image/karkas.png");
 }
 
 .headr-menu {
     display: flex;
-    align-items:center;
-    justify-content:space-evenly;
+    
 
 }
 
-
-.logo1 {
-    margin-top: 105px;
-}
-
-.odp {
-    margin-top: 80px;
-}
-
-
-.odp li {
+.menu li {
     display: inline;
-    padding-left: 106.5px;
-
 
 }
-
-.glav {
+.glav{
+    margin-left: 147.58px;
+    margin-top: 117px;
+    width: 151.5px;
+    height: 37.47px;
+    top: 117px;
+    left: 632px;
+    gap: 0px;
+    opacity: 0px;
     font-family: Montserrat;
     font-size: 25px;
     font-weight: 700;
     line-height: 30.48px;
+    text-align: left;
 
 }
-
-.akchii {
+.akchii{
+    margin-top: 117px;
+    margin-left: 66.5px;
+    width: 151.5px;
+    height: 37.47px;
+    top: 117px;
+    left: 850px;
+    gap: 0px;
+    opacity: 0px;
     font-family: Montserrat;
     font-size: 25px;
     font-weight: 500;
     line-height: 30.48px;
+    text-align: left;
+
 
 }
 
-.ohac {
+.logo1{
+    margin-top: 105px;
+    margin-left: 130px;
+    width: 354.42px;
+    height: 72.51px;
+    top: 105px;
+    left: 130px;
+    gap: 0px;
+    border-radius: 10px 0px 0px 0px;
+    opacity: 0px;
+
+}
+
+.text{
+    margin-top: 189.49px;
+    margin-left: 130px;
+    width: 572px;
+    height: 63px;
+    top: 367px;
+    left: 130px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Montserrat;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 39.01px;
+    text-align: left;
+
+}
+.we{
+    margin-top: 117px;
+    margin-left: 30.5px;
+    width: 151.5px;
+    height: 37.47px;
+    top: 117px;
+    left: 1032px;
+    gap: 0px;
+    opacity: 0px;
     font-family: Montserrat;
     font-size: 25px;
     font-weight: 500;
     line-height: 30.48px;
+    text-align: left;
+
 
 }
 
+.korzina{
+    margin-top: 101px;
+    margin-left: 48.5px;
+    width: 70px;
+    height: 70px;
+    top: 101px;
+    left: 1232px;
+    gap: 0px;
+    opacity: 0px;
+    width: 35px;
+    height: 35px;
+    top: 118px;
+    left: 1247px;
+    padding: 2.12px 0px 2.14px 0px;
+    gap: 0px;
+    opacity: 0px;
+    width: 35px;
+    height: 30.75px;
+    top: 32.86px;
+    gap: 0px;
+    opacity: 0px;
 
-.buy1 {
-    margin-top: 76.5px;
+}
+.skidka{
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.5px;
+    text-align: left;
+    width: 497px;
+    height: 35px;
+    top: 459px;
+    left: 130px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: 29px;
+    margin-left: 130px;
+
+}
+.zakazat{
+    width: 142.26px;
+    height: 60px;
+    top: 523px;
+    left: 130px;
+    gap: 0px;
+    border-radius: 50px 0px 0px 0px;
+    opacity: 0px;
+    margin-top: 29px;
+    margin-left: 130px;
+    width: 162.86px;
+    height: 39px;
+    top: 537px;
+    left: 148px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29.26px;
+    text-align: left;
+
+}
+.burger{
+    margin-top: 39.53px;
+    margin-left: 113px;
+    width: 642.69px;
+    height: 600px;
+    top: 194px;
+    left: 740px;
+    gap: 0px;
+    opacity: 0px;
+
+
 
 }
