@@ -5,116 +5,55 @@
 
 .headr-menu {
     display: flex;
-    
+    justify-content: space-evenly;
+    align-items: center;
+    padding-top: 105px;
 
 }
-
-.menu li {
-    display: inline;
+.headr-menu ul{
+    display: flex;
+    font-family: Montserrat;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 30.48px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    justify-content: space-between;
+    width: 400px;
 
 }
 .glav{
-    margin-left: 147.58px;
-    margin-top: 117px;
-    width: 151.5px;
-    height: 37.47px;
-    top: 117px;
-    left: 632px;
-    gap: 0px;
-    opacity: 0px;
     font-family: Montserrat;
     font-size: 25px;
     font-weight: 700;
     line-height: 30.48px;
     text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
 
 }
-.akchii{
-    margin-top: 117px;
-    margin-left: 66.5px;
-    width: 151.5px;
-    height: 37.47px;
-    top: 117px;
-    left: 850px;
-    gap: 0px;
-    opacity: 0px;
-    font-family: Montserrat;
-    font-size: 25px;
-    font-weight: 500;
-    line-height: 30.48px;
-    text-align: left;
+.headr-main{
+    display: flex;
 
 
 }
-
-.logo1{
-    margin-top: 105px;
-    margin-left: 130px;
-    width: 354.42px;
-    height: 72.51px;
-    top: 105px;
-    left: 130px;
-    gap: 0px;
-    border-radius: 10px 0px 0px 0px;
-    opacity: 0px;
-
-}
-
 .text{
-    margin-top: 189.49px;
-    margin-left: 130px;
-    width: 572px;
-    height: 63px;
-    top: 367px;
-    left: 130px;
-    gap: 0px;
-    opacity: 0px;
+    padding-top: 189.4px;
+    padding-bottom: 29px;
+    padding-left: 130px;
+    padding-right: 38px;
+    
+}
+.dastavka{
     font-family: Montserrat;
     font-size: 32px;
     font-weight: 800;
     line-height: 39.01px;
     text-align: left;
-
-}
-.we{
-    margin-top: 117px;
-    margin-left: 30.5px;
-    width: 151.5px;
-    height: 37.47px;
-    top: 117px;
-    left: 1032px;
-    gap: 0px;
-    opacity: 0px;
-    font-family: Montserrat;
-    font-size: 25px;
-    font-weight: 500;
-    line-height: 30.48px;
-    text-align: left;
-
-
-}
-
-.korzina{
-    margin-top: 101px;
-    margin-left: 48.5px;
-    width: 70px;
-    height: 70px;
-    top: 101px;
-    left: 1232px;
-    gap: 0px;
-    opacity: 0px;
-    width: 35px;
-    height: 35px;
-    top: 118px;
-    left: 1247px;
-    padding: 2.12px 0px 2.14px 0px;
-    gap: 0px;
-    opacity: 0px;
-    width: 35px;
-    height: 30.75px;
-    top: 32.86px;
-    gap: 0px;
-    opacity: 0px;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    
 
 }
 .skidka{
@@ -123,49 +62,101 @@
     font-weight: 400;
     line-height: 19.5px;
     text-align: left;
-    width: 497px;
-    height: 35px;
-    top: 459px;
-    left: 130px;
-    gap: 0px;
-    opacity: 0px;
-    margin-top: 29px;
-    margin-left: 130px;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    padding-top: 29px;
+    padding-bottom: 29px;
+    padding-right: 113px;
 
 }
-.zakazat{
-    width: 142.26px;
-    height: 60px;
-    top: 523px;
-    left: 130px;
-    gap: 0px;
-    border-radius: 50px 0px 0px 0px;
-    opacity: 0px;
-    margin-top: 29px;
-    margin-left: 130px;
-    width: 162.86px;
-    height: 39px;
-    top: 537px;
-    left: 148px;
-    gap: 0px;
-    opacity: 0px;
+.main{
+    height: 900px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.menu{
+    
     font-family: Montserrat;
-    font-size: 24px;
-    font-weight: 400;
-    line-height: 29.26px;
+    font-size: 45px;
+    font-weight: 500;
+    line-height: 54.86px;
     text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
 
 }
-.burger{
-    margin-top: 39.53px;
-    margin-left: 113px;
-    width: 642.69px;
-    height: 600px;
-    top: 194px;
-    left: 740px;
-    gap: 0px;
-    opacity: 0px;
+.row{
+    display: flex;
+    padding-top: 46px;
+    padding-left: 87px;
+    padding-right: 87px;
+}
+.burgerr{
+    font-family: Montserrat;
+    font-size: 35px;
+    font-weight: 500;
+    line-height: 42.67px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+   
+}
+.burgers-div{
+    margin-left: 38px;
+  
+}
+.row2{
+    padding-right: 87px;
+    display: flex;
+    padding-top: 46px;
+    padding-left: 87px;
+}
+.headr-footer{
+    background-image: url("../image/karkas2.jpg");
+    height: 450px;
+
+}
+.footer{
+    display: flex;
+ 
+    
+}
+.text-footer{
+    margin-left: 279px;
+    margin-top: 156px;
+    
+}
+.text-footer2{
+    margin-left: 101px;
+    margin-top: 156px;
+
+}
+.text-footer3{
+    margin-left: 101px;
+    margin-top: 156px;
+
+}
+.text-footer4{
+    margin-left: 580px;
+    margin-top: 45px;
+    
+    
+
+}  
+.text-footer5{
+    margin-top: 24px;
+    margin-left: 566px;
+}
+.photo-footer{
+    margin-left: 608px;
+    margin-top: 22px;
 
 
+}
+.photo-footer2{
+    margin-top: 35px;
+    margin-left: 6px;
 
 }
